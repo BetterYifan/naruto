@@ -139,4 +139,10 @@ Session存储用户信息在服务端，Session可以存储在服务器上的文
 
 https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md
 
-
+4. REST API
+a). URI:资源的规范
+b). Request:通过标准HTTP方法对资源crud
+    GET、POST、PUT、DELETE
+c). 安全性和幂等性
+    安全性：不会改变资源状态
+    幂等性：执行1次和执行n次，对资源状态改变的效果等价
