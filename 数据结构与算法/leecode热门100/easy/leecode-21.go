@@ -1,4 +1,4 @@
-package leecode热门100
+package easy
 
 type ListNode struct {
 	Val  int

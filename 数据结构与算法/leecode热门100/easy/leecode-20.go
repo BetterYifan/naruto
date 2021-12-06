@@ -1,4 +1,4 @@
-package leecode热门100
+package easy
 
 var (
 	hash = map[byte]byte{

@@ -1,4 +1,4 @@
-package leecode热门100
+package easy
 
 func twoSum(nums []int, target int) []int {
 	tMap := make(map[int]int)

@@ -24,3 +24,10 @@ func quicksort(nums []int, start, end int) {
 	quicksort(nums, start, low-1)
 	quicksort(nums, low+1, end)
 }
+
+//func quick(nums []int) []int {
+//	if len(nums) == 0 {
+//
+//	}
+//	middle :=
+//}
