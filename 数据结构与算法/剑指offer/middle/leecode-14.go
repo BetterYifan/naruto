@@ -40,3 +40,6 @@ func max(a, b int) int {
 		return b
 	}
 }
+
+type HelloWorldServiceInterface = interface {
+}
