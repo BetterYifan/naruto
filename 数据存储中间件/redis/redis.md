@@ -6,3 +6,6 @@
     e). redis-cluster
         i)无中心架构，少了proxy层
         ii)数据存储按slot分布
+
+2. 使用redis作为分布式锁的问题？
+    
